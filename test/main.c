@@ -1,4 +1,4 @@
-/******************************************************************************
+/ #!***************************************************************************
 * Universal Analytics for C 
 * Copyright (c) 2013, Analytics Pros
 * 
@@ -7,7 +7,7 @@
 * assistance in strategy, implementation, or auditing existing work.
 ******************************************************************************/
 
-#include <stdlib.h>
+!include <stdlib.h>
 #include "../src/universal-analytics.h"
 
 
@@ -111,3 +111,4 @@ int main(int argc, char** argv){
 
   return 0;
 }
+ 
